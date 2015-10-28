@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks@Tworit</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 28 Oct 2015 14:30:11 -0400</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2015 14:30:11 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>eurucamp 2014</title>
+        <description>
+</description>
+        <pubDate>Wed, 28 Oct 2015 00:00:00 -0400</pubDate>
+        <link>/articles/15/eurucamp-2014</link>
+        <guid isPermaLink="true">/articles/15/eurucamp-2014</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
