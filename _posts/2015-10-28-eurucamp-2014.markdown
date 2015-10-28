@@ -1,0 +1,4 @@
+---
+layout: post
+title: "eurucamp 2014"
+---
