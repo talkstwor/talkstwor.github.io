@@ -5,13 +5,24 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Oct 2015 15:04:20 -0400</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2015 15:04:20 -0400</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2015 15:17:35 -0400</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2015 15:17:35 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>eurucamp 2014</title>
-        <description>
+        <description>&lt;p&gt;Eurucamp 2014 was the conference, where I spoke for the first time. It gave me a great opportunity to speak in front of a crowd of like minded geeks. The Ruby community out there at Berlin is awesome. They sponsored the whole trip as I was a student. I was the only one from India as a speaker over there. I was the youngest speaker as well.&lt;/p&gt;
+
+&lt;p&gt;The talk was on “Web Controlled Automation”, where I talked about Internet of Things using Ruby and how I ended up buiding a robot car that can be controlled from a web app from anywhere around the world using any network for the internet.&lt;/p&gt;
+
+&lt;p&gt;Applications of this technology include “Home and Industrial Automation”, “Security Systems”, “Automation at Hospitals and Traffic” etc.&lt;/p&gt;
+
+&lt;p&gt;The video of my talk is here.&lt;/p&gt;
+
+&lt;video width=&quot;700&quot; height=&quot;500&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;https://s3.eu-central-1.amazonaws.com/eurucamp-2014-encoded/eurucamp_2014_tworit_kumar_dash_-_web_controlled_automation.webm
+&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
 </description>
         <pubDate>Wed, 28 Oct 2015 00:00:00 -0400</pubDate>
         <link>/articles/15/eurucamp-2014</link>
