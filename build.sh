@@ -1,6 +1,6 @@
 jekyll build --source . --destination _deploy
 touch _deploy/CNAME
-echo 'talks.tworitdash.in' > _deploy/CNAME
+echo 'conferences.tworitdash.in' > _deploy/CNAME
 cd _deploy
  
 git add .
