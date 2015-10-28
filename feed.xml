@@ -5,13 +5,52 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Oct 2015 15:17:35 -0400</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2015 15:17:35 -0400</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2015 16:45:12 -0400</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2015 16:45:12 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
+        <title>euruko 2015</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://euruko2015.org/&quot;&gt;euruko&lt;/a&gt; was the biggest conference ever visited by me so far. The experience was quite awesome and beautiful, as it was organized at Salzburg, Austria. The place was very beautiful. The conference was huge. I happened to meet the designer/creater of ruby himself (Yukihiro (Matz) Matsumoto). I listened to a lot of cool and scientific talks as well and I got inspired by my fellow speakers. In short, it was a complete experience. I met some of the eurucamp organisers too there. It felt home to be around with like minded people.&lt;/p&gt;
+
+&lt;p&gt;The talk was about “RFID Technology with the applications in the internet of things”. In this topic, I talked about the basic principle of a radio communication and why I always wanted to build my own radio transmitter and receiver modules. Then I talked about how I got into RFID technology and IoT. Then I talked about integrating the two technologies using ruby to build smater systems.&lt;/p&gt;
+
+&lt;p&gt;Applications include “Home Automation”, “Intervehicular Communication”, “Cattle Tracking”, “Smart Passports”, “Security Checks”.&lt;/p&gt;
+
+&lt;p&gt;The slides to my talk are here. Video will be here soon.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;c70ab683dbe3410d9718f8d74731d18f&quot; data-ratio=&quot;3.00&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 29 Oct 2015 00:00:00 -0400</pubDate>
+        <link>/articles/15/euruko-2015</link>
+        <guid isPermaLink="true">/articles/15/euruko-2015</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Deccan Ruby Conf 2015</title>
+        <description>&lt;p&gt;I spoke at &lt;a href=&quot;https://deccanrubyconf.org/&quot;&gt;Deccan Ruby Conference&lt;/a&gt; in August 2015. The organizers were awesome. The event was an one day event with lots of fun and code.&lt;/p&gt;
+
+&lt;p&gt;The topic of my talk was “RFID Technology with the applications in the Internet of Things”. In this talk, I described about the basics of RFID Technology with the reader and tag details and how to build a system that can recognize objects with their unique IDs.&lt;/p&gt;
+
+&lt;p&gt;Along with that I talked about IoT using ruby with RFID. After that I talked about secured systems using FreeBSD jails.&lt;/p&gt;
+
+&lt;p&gt;The video for the talk is here.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/oS7UNDmaQ58?list=PLdBNOee0vmiJM__IYjFuNl7MM0niT8U8c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 29 Oct 2015 00:00:00 -0400</pubDate>
+        <link>/articles/15/deccan-ruby-conf-2015</link>
+        <guid isPermaLink="true">/articles/15/deccan-ruby-conf-2015</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>eurucamp 2014</title>
-        <description>&lt;p&gt;Eurucamp 2014 was the conference, where I spoke for the first time. It gave me a great opportunity to speak in front of a crowd of like minded geeks. The Ruby community out there at Berlin is awesome. They sponsored the whole trip as I was a student. I was the only one from India as a speaker over there. I was the youngest speaker as well.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://2014.eurucamp.org&quot;&gt;eurucamp 2014&lt;/a&gt; was the conference, where I spoke for the first time. It gave me a great opportunity to speak in front of a crowd of like minded geeks. The Ruby community out there at Berlin is awesome. They sponsored the whole trip as I was a student. I was the only one from India as a speaker over there. I was the youngest speaker as well. It was my first time visit ever to a city which is out of our country.&lt;/p&gt;
 
 &lt;p&gt;The talk was on “Web Controlled Automation”, where I talked about Internet of Things using Ruby and how I ended up buiding a robot car that can be controlled from a web app from anywhere around the world using any network for the internet.&lt;/p&gt;
 
