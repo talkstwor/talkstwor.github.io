@@ -2,7 +2,7 @@
 layout: post
 title: "eurucamp 2014"
 ---
-Eurucamp 2014 was the conference, where I spoke for the first time. It gave me a great opportunity to speak in front of a crowd of like minded geeks. The Ruby community out there at Berlin is awesome. They sponsored the whole trip as I was a student. I was the only one from India as a speaker over there. I was the youngest speaker as well. 
+[eurucamp 2014](http://2014.eurucamp.org) was the conference, where I spoke for the first time. It gave me a great opportunity to speak in front of a crowd of like minded geeks. The Ruby community out there at Berlin is awesome. They sponsored the whole trip as I was a student. I was the only one from India as a speaker over there. I was the youngest speaker as well. It was my first time visit ever to a city which is out of our country.  
 
 The talk was on "Web Controlled Automation", where I talked about Internet of Things using Ruby and how I ended up buiding a robot car that can be controlled from a web app from anywhere around the world using any network for the internet.
 

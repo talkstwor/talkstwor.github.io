@@ -1,0 +1,14 @@
+---
+layout: post
+title: "euruko 2015"
+---
+[euruko](http://euruko2015.org/) was the biggest conference ever visited by me so far. The experience was quite awesome and beautiful, as it was organized at Salzburg, Austria. The place was very beautiful. The conference was huge. I happened to meet the designer/creater of ruby himself (Yukihiro (Matz) Matsumoto). I listened to a lot of cool and scientific talks as well and I got inspired by my fellow speakers. In short, it was a complete experience. I met some of the eurucamp organisers too there. It felt home to be around with like minded people. 
+
+The talk was about "RFID Technology with the applications in the internet of things". In this topic, I talked about the basic principle of a radio communication and why I always wanted to build my own radio transmitter and receiver modules. Then I talked about how I got into RFID technology and IoT. Then I talked about integrating the two technologies using ruby to build smater systems. 
+
+Applications include "Home Automation", "Intervehicular Communication", "Cattle Tracking", "Smart Passports", "Security Checks". 
+
+The slides to my talk are here. Video will be here soon.
+
+<script async class="speakerdeck-embed" data-id="c70ab683dbe3410d9718f8d74731d18f" data-ratio="3.00" src="//speakerdeck.com/assets/embed.js"></script> 
+
