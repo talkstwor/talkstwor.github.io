@@ -1,4 +1,4 @@
-jekyll build --source . --destination _deploy
+jekyll build  --destination _deploy
 touch _deploy/CNAME
 echo 'conferences.tworitdash.in' > _deploy/CNAME
 cd _deploy
